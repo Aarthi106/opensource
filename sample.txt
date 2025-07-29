@@ -2,3 +2,6 @@
 hhh
 lll
 Void main()
+{
+int a;
+}
